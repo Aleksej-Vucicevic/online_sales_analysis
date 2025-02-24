@@ -44,7 +44,7 @@ Instalacija i pokretanje
 
 Kloniraj repozitorijum:
 
-git clone https://github.com/tvoje_Aleksej-Vucicevic/online_sales_analysis.git
+git clone https://github.com/Aleksej-Vucicevic/online_sales_analysis
 
 Pređi u direktorijum projekta:
 
