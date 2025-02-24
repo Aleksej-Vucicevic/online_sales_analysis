@@ -56,7 +56,7 @@ python main.py
 
 Autori
 
-Alex - Razvoj sistema za analizu prodaje
+Aleksej
 
 Tehnologije
 
